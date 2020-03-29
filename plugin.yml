@@ -1,0 +1,6 @@
+name: CombatLog
+version: 1.0
+depend: [WildCommons]
+softdepend: [EchoPet, EchoPets, SonarPet]
+
+main: com.gmail.filoghost.combatlog.CombatLog
